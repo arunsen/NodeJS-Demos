@@ -1,0 +1,4 @@
+
+ This is created using writeFile 
+
+This is appended text created using writeFile
